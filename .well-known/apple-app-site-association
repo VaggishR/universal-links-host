@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "TEAMID.com.vaggish.AkoyaIntegration",
+        "appID": "XXXXXXXXXX.com.vaggish.AkoyaIntegration",
         "paths": [
           "/fidtest//callback"
         ]
