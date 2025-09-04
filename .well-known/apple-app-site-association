@@ -5,7 +5,7 @@
       {
         "appID": "XXXXXXXXXX.com.vaggish.AkoyaIntegration",
         "paths": [
-          "/fidtest//callback"
+          "/callback"
         ]
       }
     ]
